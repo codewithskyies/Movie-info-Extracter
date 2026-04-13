@@ -1,1 +1,27 @@
 
+langchain-google-genai
+langchain-groq
+langgraph
+uvicorn
+langchain-mistralai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+
+python-dotenv
+tiktoken
+requests
+fastapi
+
+faiss-cpu
+
+python-dotenv
+
+
+
+
+streamlit
+langchain
+pydantic
+python-dotenv
